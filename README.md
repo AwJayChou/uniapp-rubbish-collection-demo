@@ -6,7 +6,7 @@
 
 
 
-![uni](images\uni.jpg)
+![uni](https://github.com/AwJayChou/uniapp-rubbish-collection-demo/tree/master/images/uni.jpg)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-![scretid](images\secretid.jpg)
+![scretid](https://github.com/AwJayChou/uniapp-rubbish-collection-demo/tree/master/images/secretid.jpg)
 
 
 
