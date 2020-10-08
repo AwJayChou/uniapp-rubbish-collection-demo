@@ -6,7 +6,7 @@
 
 
 
-![uni](C:\Users\Administrator\Desktop\uni.jpg)
+![uni](images\uni.jpg)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-![scretid](C:\Users\Administrator\Desktop\scretid.jpg)
+![scretid](images\secretid.jpg)
 
 
 
